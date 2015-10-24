@@ -1,0 +1,8 @@
+Database Design:
+
+members( username, password)
+survey( question_id, set_id, user_id, rating)
+surveyquestions( question_id, question, set_id)
+worksfor(emp_id, manager_id)
+
+ 
